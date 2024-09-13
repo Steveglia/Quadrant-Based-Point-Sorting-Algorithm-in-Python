@@ -1,0 +1,3 @@
+This Python project is designed to classify and sort 2D points based on their coordinates. The program reads the coordinates from a text file, assigns them to one of four quadrants or axis positions, and then organizes the points within each quadrant using a custom binary insertion sort algorithm. The sorting is based on the ratio between the x and y values of the points, which helps in placing them efficiently within their respective quadrant.
+
+The project emphasizes input handling, recursive sorting, and efficient data organization while showcasing core programming concepts like recursion, file handling, and custom sorting algorithms. This implementation demonstrates the practical application of algorithms in Python for organizing spatial data.
